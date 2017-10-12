@@ -5,5 +5,5 @@ def display_board
   phrase = "   |   |   "
   phrase = "-----------"
   phrase = "   |   |   "
+  puts phrase
 end
-puts display_board
